@@ -1,4 +1,4 @@
-# `> ./aerex`
+## `> ./aerex`
 
 <div align="center">
 
@@ -30,9 +30,7 @@ class Coder:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aerex0&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&hide_border=false" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aerex0&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_color=00FF41" />
 
 </div>
 
