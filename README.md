@@ -38,7 +38,7 @@ class Coder:
 
 </div>
 
-## `>cat aerex.log`
+## `> cat aerex.log`
 <div align="center">
 
 `[ System online. Models loaded. Ready to build. ]`
