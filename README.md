@@ -6,10 +6,6 @@
 
 </div>
 
----
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/Aerex0/Aerex0/main/assets/ai-brain.gif" alt="AI animation" />
-
 ## `> whoami`
 ```python
 class Coder:
@@ -24,15 +20,7 @@ class Coder:
 
 <br clear="right"/>
 
----
-
 ## `> cat github_stats.log`
-
-<div align="center">
-
-
-
-</div>
 
 <div align="center">
 
@@ -40,9 +28,7 @@ class Coder:
 
 </div>
 
----
-
-## `> ping me`
+### `> ping me`
 
 <div align="center">
 
@@ -52,14 +38,9 @@ class Coder:
 
 </div>
 
----
-
+## `>cat aerex.log`
 <div align="center">
 
 `[ System online. Models loaded. Ready to build. ]`
-
----
-
-![Visitor Count](https://komawe.com/ghpvc/?username=Aerex0&color=00ff41&style=flat-square&label=SYSTEM+VISITORS)
 
 </div>
