@@ -10,7 +10,7 @@
 ```python
 class Coder:
     name       = "Suyash Ranjan"
-    alias      = "Aerex0"
+    alias      = "aerex"
     college    = "IIT (BHU), Varanasi"
     role       = "Full-Stack Dev | AI Enthusiast | Coffee Consumer"
     status     = "Keep learning and failing"
