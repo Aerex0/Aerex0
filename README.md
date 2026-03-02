@@ -26,6 +26,7 @@ class Coder:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aerex0&theme=matrix&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&border=00FF41)
 
+
 </div>
 
 ## `> ping me`
