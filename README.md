@@ -42,6 +42,6 @@ class Coder:
 ## `> cat aerex.log`
 <div align="center">
 
-`{ System online | Models loaded | Ready to build. }`
+`[ System online | Models loaded | Ready to build ]`
 
 </div>
