@@ -1,4 +1,4 @@
-## `> ./aerex`
+## `> ./aerex.sh`
 
 <div align="center">
 
