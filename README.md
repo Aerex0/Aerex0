@@ -15,7 +15,7 @@ class Coder:
     role       = "Full-Stack Dev | AI Enthusiast | Coffee Consumer"
     status     = "Keep learning and failing"
     mission    = "Build things that live on the internet"
-    available  = True  # Open to exciting projects
+    available  = True  # Always Open to exciting projects
 ```
 
 <br clear="right"/>
